@@ -1,0 +1,7 @@
+name=Hide & Sneak
+author=rae
+description=A game of espionage, subtle trickery, and perhaps just a bit of strategy.
+bundleID=wtf.rae.hideandsneak
+version=1.0.0
+buildNumber=1
+imagePath=images/system
