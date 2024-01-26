@@ -1,0 +1,64 @@
+-- Symbols: ⬅⬆⮕⬇ⒶⒷ
+
+-- Preamble
+"audio" = "This game relies heavily on audio. Please make sure your Playdate is turned up all the way before continuing."
+"friends" = "By the way, this game's designed to be played with 2 to 8 players. Grab your friends, and let's play!"
+"players" = "Tell me, just real quick: how many players do we have today?"
+"players_b" = "Ⓑ 2 to 3 Players"
+"players_a" = "Ⓐ 4 to 8 Players"
+
+-- Setup
+"read" = "Please read this screen aloud to everybody."
+"no_read" = "Keep the info on this screen to yourself!"
+
+"setup_1a" = "Welcome to"
+"setup_1b" = "This is a game of espionage, subtle trickery, and perhaps just a bit of strategy."
+"setup_2" = "First, please hand off the console to someone random in the group."
+"setup_3" = "You, the person holding the console are now the Ringleader. For this game, pretend you're holding an explosive device - in a minute, you'll need to hide it somewhere."
+"setup_4" = "Everyone except the Ringleader, please close your eyes."
+"setup_5a" = "Now, the Ringleader is about to tap some shoulders. If you don't get tagged, then you're a Defuser. Your goal is to find the bomb, and defuse it using the on-screen instructions."
+"setup_5b" = "Everyone else, you're a Defuser. Your goal is to find the bomb, and defuse it using the on-screen instructions"
+"setup_6" = "You've gotta be quick, though. If the bomb goes off before you can defuse it, or you flub it too many times, then the Ringleader's team wins!"
+"setup_7" = "If you HAVE been tagged, that means you're a Mole. You're working on the side of the Ringleader. You're looking for the bomb too, but if you find it, you have the choice to pick it up and carry it somewhere else."
+"setup_8" = "Moles better be quick on their feet, though. If you're holding the bomb for too long, then it'll detonate in your hands. If that happens, then the whole plan is foiled and your team loses!"
+"setup_9" = "Ringleader, please tap some shoulders. Press A when you've chosen your Moles."
+"setup_10" = "Now, Ringleader, go and hide the bomb! Once you've found a good hiding spot, press A to activate it, and then run back and tell the other players to start looking!"
+
+-- Mid-gameplay Instructions
+"todefuse" = "To defuse:"
+"mica" = "Stay very quiet!"
+"micb" = "Stay quiet!"
+"micc" = "Make some noise!"
+"cranka" = "Turn the knob to "
+"crankb" = "Turn the knob clockwise to"
+"crankc" = "Turn the knob counter-clockwise to"
+"crankdeg" = "º!"
+"dira" = "Tap out ⬆⬆⬇⬇⬅⮕⬅⮕"
+"dirb" = ""
+"dirc" = ""
+"dird" = ""
+"dire" = ""
+"dirf" = ""
+"dirg" = ""
+"dirh" = ""
+"aba" = "Mash Ⓐ!"
+"abb" = "Mash Ⓑ!"
+"abc" = "Mash Ⓐ+Ⓑ!"
+
+-- Game Over
+"gameover" = "GAME OVER"
+"defusers_win" = "The Defusers' team wins!"
+"ringleader_win" = "The Ringleader's team wins!"
+"playagain" = "Ⓐ Let's play again!"
+"instructions" = "Ⓑ We might need the instructions one more time."
+
+-- Credits
+"hideandsneak" = "Hide & Sneak"
+"rae_name" = "rae"
+"rae_tasks" = "Graphics, Code, Concept"
+"pixabay_name" = "Pixabay"
+"pixabay_tasks" = "Sound FX"
+"macleod_name" = "Kevin MacLeod"
+"macleod_tasks" = "Music"
+"mrgan_name" = "Neven Mrgan"
+"mrgan_tasks" = "Fonts"
